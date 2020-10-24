@@ -28,7 +28,8 @@ class Letter {
             return false;
         }
 
-    }
+    
+
 }
 
 module.exports = Letter;
